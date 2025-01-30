@@ -6,14 +6,13 @@
 
 A classic Tic-Tac-Toe game built with React, featuring two-player mode, win detection, and responsive design. Perfect for learning React fundamentals or casual gameplay.
 
-👉 [Live Demo](https://your-demo-link.com) | 📥 [Download Code](https://github.com/your-username/react-tic-tac-toe/archive/main.zip)
+
 
 ---
 
 ## Table of Contents
 - [Features](#-features)
-- [Demo](#-demo)
-- [Installation](#-installation)
+
 - [How to Play](#-how-to-play)
 - [Technologies Used](#-technologies-used)
 - [Contributing](#-contributing)
